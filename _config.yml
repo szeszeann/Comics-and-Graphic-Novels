@@ -1,17 +1,8 @@
-#########
-#
-# Learn-Static Lesson Template
-# a Jekyll template for a simple lesson or workshop website
-# with a sidebar content nav layout
-# https://github.com/learn-static/lesson-template
-#
-#########
-
 #######
 # SITE SETTINGS
 #
 # title appears in the header
-title: Writing with Visualizations
+title: Comics and Graphic Novels at FIMS Graduate Library
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/ (or look in "_includes/bootstrap-icons")
@@ -25,11 +16,11 @@ keywords: "essays, websites, gh-pages, jekyll, text analysis"
 featured-image: "/images/line-chart.png"
 
 # author name, displayed in credits
-author: owikle
+author: Hiu Wing Sze, Samantha Dawdy, Russell Seton
 # year or date published, displayed in sidebar
-publication_year: 2022
+publication_year: 2023
 # location of code, the full url to your github repository
-source-code: https://github.com/learn-static/writing-with-visualizations
+source-code: https://github.com/learn-static/Comics-and-Graphic-Novels
 # content license (typically "cc by-sa"), displayed in sidebar
 content_license: "CC BY-SA"
 # URL to the content license
